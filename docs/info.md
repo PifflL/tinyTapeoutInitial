@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+I use the DIP Switch 8. If you switch on the first, second, fith, eighth switch you change something in the currcuit. The first end second go into a XOR-gate. The fifth and eighth go into an AND-gate. The outpit of those two go into an AND-gate as well. The output of this one goes to the fourth to sixth output to give out my initial L on the Seven Segment Display.
 ## How to test
 
-Explain how to use your project
+Switch on and of the four mantioned switches. As long as only one of the first switches and both of the later ones are active you should get the correct output. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+DIP Switch 8, Seven Segment Display
